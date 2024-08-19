@@ -1,6 +1,6 @@
 module github.com/SirGFM/goraphql_mock_server
 
-go 1.22.6
+go 1.22
 
 require (
 	github.com/machinebox/graphql v0.2.2
